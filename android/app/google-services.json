@@ -1,0 +1,435 @@
+{
+  "project_info": {
+    "project_number": "374515676055",
+    "firebase_url": "https://flutter-setup-17b85.firebaseio.com",
+    "project_id": "flutter-setup-17b85",
+    "storage_bucket": "flutter-setup-17b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:5982b0bb3e38792526cad2",
+        "android_client_info": {
+          "package_name": "com.sulazoyahoo.ios_firebase_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:f9f34891fbcc1b1b",
+        "android_client_info": {
+          "package_name": "sulazo.com.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-48c3hl1d8ofv08oeu2uicj7s6h5447l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.firestoreapp",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:8afba64c449040c226cad2",
+        "android_client_info": {
+          "package_name": "sulazo.com.google_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-sl6bbrplk13v58tvjelfle241q0ajk8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.google_login_app",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:ffdbfe173880e9ca",
+        "android_client_info": {
+          "package_name": "sulazo.com.google_sign_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-n2bhcvhsf4e7pjfklb01ln2hk5sg7les.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.google_sign_app",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:5de6aefd96b9bef1",
+        "android_client_info": {
+          "package_name": "sulazo.com.messanger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-m97m50gcfbnf3h4h7kc88conv2lf1kvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.messanger_app",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:27213a152d3fab1b26cad2",
+        "android_client_info": {
+          "package_name": "sulazo.com.project_shiloh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-snhqqu0pi39korvo9745svdu6hp11htf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.project_shiloh",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:311b99d65f5de7b626cad2",
+        "android_client_info": {
+          "package_name": "sulazo.com.push_notification_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-277obnm72dcsk0jf6rmkrpjkr43smlji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.push_notification_app",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:5f2f8bcc01f01b17",
+        "android_client_info": {
+          "package_name": "sulazo.com.sampleloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-pc6apll7p63tpu9a01m0e669932vrfno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.sampleloginapp",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:1cd80325af49e1fb",
+        "android_client_info": {
+          "package_name": "sulazo.com.sccapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-8k34po4bl7hd3oms9stoautvf9vcnl86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sulazo.com.sccapp",
+            "certificate_hash": "adefa568c802ddd825c47352734262c24d4af887"
+          }
+        },
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374515676055:android:350c4e852206907526cad2",
+        "android_client_info": {
+          "package_name": "sulazo.com.totem_service_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tJS1vYqhfIa5_kgMUDVtpMaQJrr_2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374515676055-q2igi4hmnjmkfpp6b0fknodab7a78ovr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374515676055-q32sgoind9romata93skr19llo4cs9ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totemtotemtra.churchIosApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

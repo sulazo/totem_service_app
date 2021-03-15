@@ -18,6 +18,7 @@ class GridMenu extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
+        // Navigator.pop(context);
         Navigator.push(
             context, MaterialPageRoute(builder: (context) => screenName));
       },
@@ -27,7 +28,10 @@ class GridMenu extends StatelessWidget {
           child: ListTile(
             title: Text(
               title,
-              style: TextStyle(fontWeight: FontWeight.bold),
+              style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 20,
+                  color: Colors.white),
             ),
             leading: gridMenuIcon,
           ),

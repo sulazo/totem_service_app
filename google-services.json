@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136080193251",
+    "project_id": "mobile-dev-2021",
+    "storage_bucket": "mobile-dev-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136080193251:android:70c90885cd94de079577d6",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136080193251-sniorr8v0n4mhu63kpvtloea5h92fa1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtOhy1q861CCh58kwTAVYdvD9ymrN5J1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136080193251-sniorr8v0n4mhu63kpvtloea5h92fa1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
